@@ -1,0 +1,162 @@
+{
+  "type": "bubble",
+  "direction": "rtl",
+  "header": {
+    "type": "box",
+    "layout": "horizontal",
+    "flex": 1,
+    "contents": [
+      {
+        "type": "text",
+        "text": "104人力銀行",
+        "size": "xs",
+        "align": "center",
+        "gravity": "top",
+        "weight": "bold",
+        "color": "#AAAAAA",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.104.com.tw/"
+        }
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://www.company_icon.com/",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "label": "Action",
+      "uri": "https://www.company_url.com/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "工作名稱",
+            "size": "lg",
+            "align": "end"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "公司名稱",
+                "margin": "none",
+                "size": "xs",
+                "align": "start",
+                "action": {
+                  "type": "uri",
+                  "uri": "https://www.company_url.com/"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "separator"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "工作待遇",
+            "flex": 1,
+            "size": "md",
+            "align": "end",
+            "gravity": "top",
+            "weight": "bold"
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "text",
+            "text": "工作性質",
+            "flex": 1,
+            "size": "md",
+            "align": "end",
+            "gravity": "center",
+            "weight": "bold"
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "text",
+            "text": "休假制度",
+            "flex": 1,
+            "size": "md",
+            "align": "end",
+            "gravity": "center",
+            "weight": "bold"
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "text",
+            "text": "需求人數",
+            "flex": 1,
+            "size": "md",
+            "align": "end",
+            "gravity": "bottom",
+            "weight": "bold"
+          }
+        ]
+      },
+      {
+        "type": "separator"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "flex": 1,
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.company_envImg.com/",
+            "gravity": "bottom",
+            "size": "xxl",
+            "aspectRatio": "16:9",
+            "aspectMode": "cover",
+            "action": {
+              "type": "uri",
+              "uri": "https://www.company_url.com/"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "了解更多",
+          "uri": "https://Job_Url.com"
+        }
+      }
+    ]
+  }
+}
