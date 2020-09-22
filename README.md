@@ -1,0 +1,6 @@
+# LineBotProject
+LineBot for search Job
+此個專為找工作提供方便作用
+目前找工作平台太多了，想要找工作還要一下去Ａ網站一下去Ｂ網站
+提供使用者設定搜尋工作條件
+利用request+beautifulSoup抓取104人力銀行資料
