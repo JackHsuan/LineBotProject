@@ -2,13 +2,15 @@
 
 # 找工作機器人
 
-# 廖子軒
-
 # 研究動機
+
+市面上有許多找工作平台
 
 <img src="img/研究動機.PNG" width=310px />
 
 # 研究目標
+
+將工作機會整合至Line 目前台灣大部分人都有Line
 
 <img src="img/研究目的.PNG" width=310px />
 
